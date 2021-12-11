@@ -6,8 +6,8 @@ import java.awt.geom.GeneralPath;
 import java.awt.geom.Point2D;
 import java.util.Random;
 
-/**
- * Created by filippo on 04/09/16.
+/*
+ *
  *
  */
 abstract public class Brick  {

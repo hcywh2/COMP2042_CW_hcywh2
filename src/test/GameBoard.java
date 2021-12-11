@@ -24,7 +24,7 @@ import java.awt.font.FontRenderContext;
 
 /*
 *
-* Hello
+*
 *
 *
 * */
